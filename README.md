@@ -6,6 +6,7 @@ Progetto realizzato con **Blender** per il corso _Fondamenti di Computer Grafica
 
 ## 🎯 Obiettivo
 Creazione del personaggio **Jake il Cane**, dalla serie animata *Adventure Time*, rappresentato in una scena creativa: **Jake fluttua scendendo dal Nirvana**.
+Prima della scelta di questo progetto mi sono esercitato con blender con alcuni personaggi e seguendo un tutorial molto utile, si possono trovare su https://github.com/Ernesto-png/Donut-Blender-Tutorial.
 
 ---
 
