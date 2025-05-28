@@ -25,6 +25,8 @@ Il progetto è suddiviso in **10 fasi**, ognuna contenente:
 ## 🚀 Output Finale
 Il progetto termina con:
 1. **Modello completo** di Jake.
+   ![Render Result](https://github.com/user-attachments/assets/0c249b83-019d-4071-8b49-3dc1cbb9d5e8)
+
 2. **Presentazione PowerPoint** che documenta il processo creativo e tecnico:
    - Evoluzione del modello.
    - Screenshot delle fasi principali.
