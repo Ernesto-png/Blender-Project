@@ -29,6 +29,7 @@ Il progetto termina con:
 2. **Presentazione PowerPoint** che documenta il processo creativo e tecnico:
    - Evoluzione del modello.
    - Screenshot delle fasi principali.
+   - link: https://docs.google.com/presentation/d/1TcKzW1Ssueo5aCbxuoy2H36iWw-TislVYUv0dCMHrCo/edit?usp=sharing
 
 ---
 
