@@ -19,6 +19,7 @@ Il progetto è suddiviso in **10 fasi**, ognuna contenente:
   - Breve descrizione delle modifiche apportate.
   - Difficoltà incontrate e soluzioni adottate.
 - **Risorse Online**: Link a guide o forum consultati durante il progetto.
+- **File mkv**: Che è il risultato del render animato
 
 ---
 
