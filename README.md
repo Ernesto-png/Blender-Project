@@ -14,7 +14,7 @@ Prima della scelta di questo progetto mi sono esercitato con blender con alcuni 
 Il progetto è suddiviso in **10 fasi**, ognuna contenente:
 
 - **File .blend**: Evoluzione passo dopo passo del personaggio.
-- **Documentazione**:
+- **File .docx**:
   - Screenshot che mostrano i progressi rispetto alla fase precedente.
   - Breve descrizione delle modifiche apportate.
   - Difficoltà incontrate e soluzioni adottate.
